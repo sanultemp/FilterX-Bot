@@ -38,7 +38,7 @@ See <i>/help</i> for more details. 👨‍💻</b>
 /status  -  Shows current status of your bot (Auth User Only)
 /id  -  Shows ID information
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-➤ <p><a href="https://t.me/BetaBots">𝓢𝓽𝓪𝓻𝓚𝓲𝓷𝓰</a></p>
+➤ <p><a href="https://t.me/IamStarKing">𝓢𝓽𝓪𝓻𝓚𝓲𝓷𝓰</a></p>
 """
 
 
